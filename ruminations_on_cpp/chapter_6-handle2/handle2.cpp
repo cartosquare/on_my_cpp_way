@@ -1,3 +1,7 @@
+/*
+引用计数与对象本身进行分离的句柄类
+*/
+
 #include <iostream>
 
 #define copy_on_write
